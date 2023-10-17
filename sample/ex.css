@@ -1,0 +1,19 @@
+
+h1{
+border-top:2px solid red;
+color:red;
+background-color:green;
+text-align:center;
+margin-left:125px;
+padding:125px;
+border-radius:25px;
+}
+body
+{
+	background-color:gray;
+}
+h2
+{
+	text-align:center;
+	text-decoration:underline 2px solid gray;
+}
